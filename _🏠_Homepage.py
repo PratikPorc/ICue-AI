@@ -189,7 +189,7 @@ position: fixed;
 left: 0;
 bottom: 0;
 width: 100%;
-background-color: #451571;
+background-color: #000000;
 color: #FFFFFF;
 text-align: center;
 }
