@@ -148,9 +148,9 @@ if uploaded_file is not None:
             st.markdown("## Recognized Dates: ")
             data = json.loads(events_json)
     
-              # Convert JSON to DataFrame
-            #st.write('### CSV Output')
-            #df = pd.json_normalize(data)
+             # Convert JSON to DataFrame
+            st.write('### CSV Output')
+            df = pd.json_normalize(data)
             #column_mapping = {"event_title": "Events",}
 
             # Rename the columns
@@ -158,7 +158,7 @@ if uploaded_file is not None:
 
             # Save the modified DataFrame back to a CSV file
             #df.to_csv(df, index=False)
-            #st.dataframe(df)
+            st.dataframe(df)
 
             #column_mapping = {'event_title': 'Events',}
 
