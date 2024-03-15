@@ -7,7 +7,7 @@ from gcsa.event import Event
 from beautiful_date import hours
 from datetime import datetime
 
-genai.configure(api_key=st.secrets("GEMINI_API_KEY"))
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 script_directory = os.path.dirname(os.path.abspath(sys.argv[0])) 
 
 
