@@ -170,9 +170,9 @@ if uploaded_file is not None:
 
 
                 # Saving events in google calender
-            #with st.spinner("Saving events in Google calendar...."):
-            #    for event in json.loads(events_json):
-            #        save_event_in_google_calendar(event_name=event["event_title"], event_date=int(event["event_date"]), event_month=int(event["event_month"]), event_year=int(event["event_year"]))
+            with st.spinner("Saving events in Google calendar...."):
+                for event in json.loads(events_json):
+                    save_event_in_google_calendar(event_name=event["event_title"], event_date=int(event["event_date"]), event_month=int(event["event_month"]), event_year=int(event["event_year"]))
             st.markdown("Events have been saved to your [Google Calendar](https://calendar.google.com)")
             
             #st.markdown("## Recognized Dates: ")
