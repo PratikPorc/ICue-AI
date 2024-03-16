@@ -15,16 +15,6 @@ I am currently pursuing B.tech in Computer Science Engineering with a specializa
 - 🖥️ Learning Animation and 3D modelling
 - 🎙️ Former TEDCircles Speaker
 - 🌍 MUN (Model United Nations) community member
-
-            
-# Hello, I'm Adarsh! 👋
-            
-I am currently a human trying to act like a robot.
-
-## About Me
-
-- You don't have any other work?? You will get nothing by reading this....
-- You are still reading XD
 """)
 
 footer="""<style>
