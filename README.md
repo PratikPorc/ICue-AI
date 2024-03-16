@@ -16,10 +16,6 @@ ICue-AI is a project developed for the GDSC Plot2Deploy Hackathon. It leverages 
 3. **Integration**: Identified events and deadlines are seamlessly added to the user's Google Calendar.
 4. **Notification**: Users receive notifications from Google Calendar to remind them of upcoming events and deadlines.
 
-## Contributors
-
-- [PratikPorc](https://github.com/PratikPorc)
-
 ## Support
 
 For any inquiries or issues, please contact us at [support@icue-ai.com](mailto:pratikguharoystads@gmail.com).
