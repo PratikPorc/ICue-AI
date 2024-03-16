@@ -11,10 +11,6 @@ st.markdown("""
   - GitHub: [PratikPorc](https://github.com/PratikPorc)
   - LinkedIn: [Pratik Guha Roy](https://www.linkedin.com/in/pratik-guha-roy-948008279/)
 
-- **Adarsh**
-  - GitHub: [apneduniya](https://github.com/apneduniya)
-  - LinkedIn: [thatsmeadarsh](https://www.linkedin.com/in/thatsmeadarsh)
-"""
 )
 
 footer="""<style>
